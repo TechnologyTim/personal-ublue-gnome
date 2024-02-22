@@ -45,6 +45,7 @@ modules:
         - org.mozilla.firefox
         - org.ablaze.Floorp
         - com.vivaldi.Vivaldi
+        - com.raggesilver.BlackBox
         - com.nextcloud.desktopclient.nextcloud
         - com.spotify.Client
         - org.libreoffice.LibreOffice
