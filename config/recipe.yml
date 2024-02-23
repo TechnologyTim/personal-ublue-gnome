@@ -52,9 +52,11 @@ modules:
         - com.valvesoftware.Steam
         - net.lutris.Lutris
         - org.gnome.Boxes
+        - org.gnome.Photos
         - org.mozilla.Thunderbird
         - org.videolan.VLC
         - org.gnome.Music
+        - org.gnome.Photos
         - com.mattjakeman.ExtensionManager
         # - org.gnome.Loupe
         # - one.ablaze.floorp//lightning # This is an example of flatpak which has multiple branches in selection (flatpak//branch).
