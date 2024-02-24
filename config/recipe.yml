@@ -58,6 +58,7 @@ modules:
         - org.gnome.Music
         - org.gnome.Photos
         - org.gnome.Calculator
+        - com.github.GradienceTeam.Gradience
         - com.mattjakeman.ExtensionManager
         # - org.gnome.Loupe
         # - one.ablaze.floorp//lightning # This is an example of flatpak which has multiple branches in selection (flatpak//branch).
