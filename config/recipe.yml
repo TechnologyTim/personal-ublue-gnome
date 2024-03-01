@@ -26,6 +26,7 @@ modules:
       - fish
       - fastfetch # fast version of neofetch
       - distrobox # better alternative to toolbox
+      - ulauncher # my favourite application launcher
       - rsms-inter-fonts # my personal favourite UI font
       - pcaro-hermit-fonts # best monospace font
       - epson-inkjet-printer-escpr2 # printer driver
