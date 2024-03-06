@@ -30,6 +30,7 @@ modules:
       - pcaro-hermit-fonts # best monospace font
       - epson-inkjet-printer-escpr2 # printer driver
       - mesa-libGLU # needed for running games
+      - gnome-shell-extension-pop-shell xprop # Pop!_Shell GNOME extension for tiling support
     remove:
       - firefox # default firefox removed in favor of flatpak
       - firefox-langpacks # langpacks needs to also be removed to prevent dependency problems
